@@ -1,5 +1,5 @@
 
-import BrowseCatalog from "./Browsecatalog"
+import BrowseCatalog from "./BrowseCatalog"
 import Enhance from "./Enhance"
 import Explore from "./Explore"
 import Footer from "./Footer"  
@@ -8,8 +8,7 @@ import Footer from "./Footer"
 import NewArrival from "./NewArrival"
 import SideBlack from "./SidbarBlack/SidebarBlack"
 import BestSelling from "./BestSelling"
-import MiddleContainere from "./MiddleContainer"
-
+import MiddleContainere from "./middleContainer"
 
 //mport { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 

@@ -1,11 +1,11 @@
 import BestSelling from "../E-commerceHome/BestSelling"
-import BrowseCatalog from "../E-commerceHome/Browsecatalog"
+import BrowseCatalog from "../E-commerceHome/BrowseCatalog"
 import Enhance from "../E-commerceHome/Enhance"
 import Explore from "../E-commerceHome/Explore"
 import Footer from "../E-commerceHome/Footer"
 import NewArrival from "../E-commerceHome/NewArrival"
 import SideBlack from "../E-commerceHome/SidbarBlack/SidebarBlack"
-import MiddleContainer from "../E-commerceHome/MiddleContainer"
+import MiddleContainer from "../E-commerceHome/middleContainer"
 function Account() {
   
 
